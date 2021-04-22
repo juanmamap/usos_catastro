@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/usos_catastro" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
